@@ -1,4 +1,25 @@
 # User Management Flutter App
+-----Images Of this Project---
+Home Screen:-
+![Screenshot 2025-05-31 212323](https://github.com/user-attachments/assets/507edb4a-1aad-4ff2-913d-32fea0608f29)
+
+Search Screen :-
+![Screenshot 2025-05-31 212419](https://github.com/user-attachments/assets/3f0ea719-a339-4aaa-ab83-fb2a4fd9a8c6)
+
+User Details Screen:-
+![Screenshot 2025-05-31 212437](https://github.com/user-attachments/assets/cd4ad259-9bfa-4c1f-b202-d9463f901066)
+
+Add Post Screen:-
+![Screenshot 2025-05-31 212611](https://github.com/user-attachments/assets/b9cc1a8c-de59-46ce-808b-2bd67abc2e86)
+
+User Details After Adding a Post:-
+![Screenshot 2025-05-31 212626](https://github.com/user-attachments/assets/93e25d89-0716-4394-a470-5f7286df602e)
+
+
+
+
+
+
 
 A Flutter application showcasing a user management system with posts and todos, leveraging the *
 *BLoC (Business Logic Component) pattern** for robust state management and the repository pattern
@@ -224,3 +245,5 @@ Future Improvements
 
 Thank you for checking out this project!
 If you have any questions or suggestions, feel free to open an issue or contact me
+
+
